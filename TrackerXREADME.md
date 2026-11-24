@@ -9,15 +9,6 @@ A personal tracker for fasting, daily check-ins, calories, water and weight. The
 | `index.html` | The complete app, including styles, JavaScript and 4,835 searchable Australian food entries. |
 | `README.md` | Setup, data transfer and food data credits. |
 
-## Publish on GitHub Pages
-
-1. Create a repository named `trackerx`. If you use GitHub Free, choose **Public** for GitHub Pages.
-2. In the repository, choose **Add file → Upload files**. Upload `index.html` and `README.md` to the repository root and commit them to the `main` branch.
-3. Open **Settings → Pages**. Under **Source**, select **Deploy from a branch**, then choose **main** and **/(root)** and click **Save**.
-4. Once **Settings → Pages** shows the published link, open it in Safari on your iPhone. Tap **Fasting** to view the countdown. To keep a shortcut, use **Share → Add to Home Screen**.
-
-[GitHub Pages publishing documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
 ## Move your logs
 
 Records are stored in the browser for the address you use. To move existing records, open the old tracker, go to **My plan and data → Export backup**, then open the new GitHub Pages address and select **Import backup**. Import replaces records in the destination browser. Keep the JSON backup in your personal files, since it contains your logs.
